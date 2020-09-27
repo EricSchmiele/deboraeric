@@ -1,0 +1,22 @@
+.home-container {
+    width: 100%;
+    max-width: 1120px;
+    height: 100vh;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-container section.home {
+    width: 100%;
+    max-width: 350px;
+    margin-right: 10px;
+}
+
+.home-container section.home h1 {
+    font-size: 32px;
+    margin-top: 100px;
+    margin-bottom: 32px;
+}
