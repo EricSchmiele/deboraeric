@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deboraeric/static/css/main.26d6eb4d.chunk.css",
+    "main.js": "/deboraeric/static/js/main.3cbfc068.chunk.js",
+    "main.js.map": "/deboraeric/static/js/main.3cbfc068.chunk.js.map",
+    "runtime-main.js": "/deboraeric/static/js/runtime-main.6dce3781.js",
+    "runtime-main.js.map": "/deboraeric/static/js/runtime-main.6dce3781.js.map",
+    "static/js/2.1f5df893.chunk.js": "/deboraeric/static/js/2.1f5df893.chunk.js",
+    "static/js/2.1f5df893.chunk.js.map": "/deboraeric/static/js/2.1f5df893.chunk.js.map",
+    "index.html": "/deboraeric/index.html",
+    "precache-manifest.af944caba170d84ced15338ba85f13c6.js": "/deboraeric/precache-manifest.af944caba170d84ced15338ba85f13c6.js",
+    "service-worker.js": "/deboraeric/service-worker.js",
+    "static/css/main.26d6eb4d.chunk.css.map": "/deboraeric/static/css/main.26d6eb4d.chunk.css.map",
+    "static/js/2.1f5df893.chunk.js.LICENSE.txt": "/deboraeric/static/js/2.1f5df893.chunk.js.LICENSE.txt",
+    "static/media/us.jpg": "/deboraeric/static/media/us.46da38df.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dce3781.js",
+    "static/js/2.1f5df893.chunk.js",
+    "static/css/main.26d6eb4d.chunk.css",
+    "static/js/main.3cbfc068.chunk.js"
+  ]
+}
